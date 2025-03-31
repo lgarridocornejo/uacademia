@@ -1,3 +1,5 @@
+### email: luis.garrido.c@uacademia.cl
+
 # Introducción a la Programación con Python y R
 
 ¡Bienvenidos al curso de Introducción a la Programación con Python y R!
